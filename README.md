@@ -3,9 +3,6 @@
 <br>
 
 <div>
-  <a href = "mailto:okv.bianca@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
-  </a>
   <a href="https://www.linkedin.com/in/bianca-vasconcellos-943683132" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
   </a> 
